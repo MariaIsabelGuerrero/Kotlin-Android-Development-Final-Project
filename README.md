@@ -1,6 +1,7 @@
 AutoCare - Vehicle Management App
 
 A comprehensive Android application for tracking vehicle maintenance, expenses, and mechanic information — clean Material Design UI with intuitive navigation and robust data management.
+
 Features
 Vehicle Management
 
